@@ -1,0 +1,34 @@
+{
+    "links": [
+        {
+            "name": "Discord",
+            "initials": "D",
+            "href": "https://discord.gg/ANucffp",
+            "description": "Discord server"
+        }, 
+        {
+            "name": "Instagram",
+            "initials": "I",
+            "href": "https://www.instagram.com/ice_efrei/",
+            "description": ""
+        }, 
+        {
+            "name": "GitHub",
+            "initials": "GH",
+            "href": "https://github.com/ice-efrei",
+            "description": ""
+        }, 
+        {
+            "name": "Linkedin",
+            "initials": "L",
+            "href": "https://www.linkedin.com/company/ice-efrei",
+            "description": ""
+        }, 
+        {
+            "name": "2023novparcoursprojet",
+            "initials": "PP",
+            "href": "https://discord.gg/ANucffp",
+            "description": "Parcours projet  Arduino 2023"
+        } 
+    ]
+}
