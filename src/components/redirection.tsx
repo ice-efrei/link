@@ -17,7 +17,7 @@ function isLinkValid(link: string) {
 const Redirection = () => {
     // get link parameter from url and redirect to it
     const urlParams = useSearchParams();
-    const link = urlParams.get('link');
+    const link = urlParams.get('link') || urlParams.get('l') || null;
 
     useEffect(() => {
         console.log(`Link: ${link}`);

@@ -1,6 +1,5 @@
 import Redirection from '@/components/redirection'
 import SimpleCards from '@/components/simplecards'
-import Image from 'next/image'
 
 export default function Home() {
   return (
