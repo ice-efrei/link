@@ -41,7 +41,7 @@ export default function SimpleCards() {
                 <a href={project.href} className="font-medium text-gray-900 hover:text-gray-600">
                   {project.name}
                 </a>
-                <p className="text-gray-500">{project.description} Members</p>
+                <p className="text-gray-500">{project.description}</p>
               </div>
             </div>
           </li>
